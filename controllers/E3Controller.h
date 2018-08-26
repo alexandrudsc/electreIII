@@ -3,7 +3,7 @@
 #include "../models/CriteriaManager.h"
 #include "../views/Views.h"
 #include "../views/Option.h"
-#include "Compute.h"
+#include "compute.h"
 
 class E3Controller
 {
